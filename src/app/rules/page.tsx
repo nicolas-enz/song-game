@@ -14,7 +14,7 @@ export default function Rules() {
             <p className="font-sans text-base text-pretty px-6 pb-6">
               Las canciones se seleccionan de forma aleatoria y solamente se reproducen los primeros 15 segundos.
               El jugador puede <b>"Solicitarlo"</b> y se reproduciran otros 15 segundos desde la mitad de la cancion.
-            </p>
+            </p>``
           </article>
           <article className="rounded-md border-4 h-fit basis-1/2">
             <div className="text-xl text-center p-4 border-b-2 bg-gray-100 dark:bg-slate-700 dark:text-white">Puntuación</div>
